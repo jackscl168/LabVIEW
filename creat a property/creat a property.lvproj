@@ -12,6 +12,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Choose Selected Control.vi" Type="VI" URL="../Choose Selected Control.vi"/>
 		<Item Name="Creat a Value Property.vi" Type="VI" URL="../Creat a Value Property.vi"/>
+		<Item Name="Find frame or struct.vi" Type="VI" URL="../../bundle/Find frame or struct.vi"/>
 		<Item Name="Get Stuct.vi" Type="VI" URL="../Get Stuct.vi"/>
 		<Item Name="Test - New VI Object.vi" Type="VI" URL="../Test - New VI Object.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
